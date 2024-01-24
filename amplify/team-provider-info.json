@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytutorial-dev-104436-authRole",
+      "UnauthRoleArn": "arn:aws:iam::056003463466:role/amplify-amplifytutorial-dev-104436-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::056003463466:role/amplify-amplifytutorial-dev-104436-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytutorial-dev-104436-deployment",
+      "UnauthRoleName": "amplify-amplifytutorial-dev-104436-unauthRole",
+      "StackName": "amplify-amplifytutorial-dev-104436",
+      "StackId": "arn:aws:cloudformation:us-east-1:056003463466:stack/amplify-amplifytutorial-dev-104436/8ac738f0-8ba9-11ee-9222-124f94343e9b",
+      "AmplifyAppId": "dz6i5bglv9wmo"
+    },
+    "categories": {
+      "api": {
+        "amplifytutorial": {}
+      },
+      "auth": {
+        "amplifytutorial17d1effd": {}
+      },
+      "function": {
+        "customLogic": {
+          "deploymentBucketName": "amplify-amplifytutorial-dev-104436-deployment",
+          "s3Key": "amplify-builds/customLogic-7a3345616e47304e372f-build.zip"
+        }
+      }
+    }
+  }
+}
