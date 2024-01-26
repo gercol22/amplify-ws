@@ -22,7 +22,14 @@
         "customLogic": {
           "deploymentBucketName": "amplify-amplifytutorial-dev-104436-deployment",
           "s3Key": "amplify-builds/customLogic-7a3345616e47304e372f-build.zip"
+        },
+        "S3Trigger9559eac8": {
+          "deploymentBucketName": "amplify-amplifytutorial-dev-104436-deployment",
+          "s3Key": "amplify-builds/S3Trigger9559eac8-676f38463452516f5375-build.zip"
         }
+      },
+      "storage": {
+        "tutorialamplify": {}
       }
     }
   }

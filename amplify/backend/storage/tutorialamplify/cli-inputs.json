@@ -1,0 +1,14 @@
+{
+  "resourceName": "tutorialamplify",
+  "policyUUID": "5ffe8e68",
+  "bucketName": "amplifytutorial6e4f660d1fe44868a3ec998e046d3c4e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger9559eac8",
+  "groupAccess": {}
+}
